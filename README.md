@@ -1,0 +1,2 @@
+# Me365bscontroller
+基础组件中的controller的基类
